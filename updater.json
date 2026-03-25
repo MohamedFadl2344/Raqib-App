@@ -5,7 +5,7 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "PLACEHOLDER_SIGNATURE_FROM_TAURI_SIGNER",
-      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.0.5/Raqib.Legal_2.0.6_x64-setup.exe"
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.0.6/Raqib.Legal_2.0.6_x64-setup.exe"
     }
   }
 }
