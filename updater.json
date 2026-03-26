@@ -1,11 +1,19 @@
 {
-  "version": "2.4.0",
-  "notes": "تحديث أمني شامل: حماية البيانات ونظام تراخيص احترافي.",
-  "pub_date": "2026-03-26T00:00:00Z",
+  "version": "2.4.5",
+  "notes": "",
+  "pub_date": "2026-03-26T22:04:31.439Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYWcwdDgvd3kxRmlOOUpPMmd4aWJCZDFaa2V0ZC93WmhWZmlpRTViOVY2MFg1MnlmR1MxK0ZqTXBtekh3ZlF2NSs1UjRmL0RNTVI1eEkrTGYya2pYcERXbGNiWS9JeWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQ3ODYwCWZpbGU6cmFxaWIuZXhlCmMyeGNVVXgray9xaGROZXcvamhKZ2dzbDk5VVc1WkxsSWVTM1FRQ3FvS0FXTW81NHUrQ3hmZ0JFWmliWXMybGpIWmwrOGp2YnZyZGM0LzE2VjNBREF3PT0K",
-      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.0/Raqib.Legal_2.4.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFZaM2RYSDFnZnU5Z0pFRTF4R1F5UDRpWGpEblpkZEZNb0ppcWtVbnZIL2pXVU80VnIwTUpIYXRzcTE2M01aclA3dkZ4WjU4UmFvUEFsR2pkZEZzTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTYyNjY2CWZpbGU6UmFxaWIgTGVnYWxfMi40LjVfeDY0X2VuLVVTLm1zaQpnNFhUV21lZ0I4SFZ4NGNMS2xtZjNXV1d6d0xROElaelJuREk1bC9Yb2F6RGp1dFdQWGFOL0IwZENyK0RpU05WUm1NSGViSGwvbENBeTJ5akhKTDBEQT09Cg==",
+      "url": "https://github.com/MohamedFadl2344/Raqib/releases/download/v2.4.5/Raqib.Legal_2.4.5_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFZaM2RYSDFnZnU5Z0pFRTF4R1F5UDRpWGpEblpkZEZNb0ppcWtVbnZIL2pXVU80VnIwTUpIYXRzcTE2M01aclA3dkZ4WjU4UmFvUEFsR2pkZEZzTXdjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTYyNjY2CWZpbGU6UmFxaWIgTGVnYWxfMi40LjVfeDY0X2VuLVVTLm1zaQpnNFhUV21lZ0I4SFZ4NGNMS2xtZjNXV1d6d0xROElaelJuREk1bC9Yb2F6RGp1dFdQWGFOL0IwZENyK0RpU05WUm1NSGViSGwvbENBeTJ5akhKTDBEQT09Cg==",
+      "url": "https://github.com/MohamedFadl2344/Raqib/releases/download/v2.4.5/Raqib.Legal_2.4.5_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUGVJYjFnN2tMOTJVMnJWTGhxeEtLSXc4WlA5emlZNU5nRzJ2aUhxYVpCTXh0Y2lwTnZJMDJEcHMvZTVwQjY3UHk3NS9YWnVCZHU2WUJmK3g1ZnNtcXcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTYyNjY2CWZpbGU6UmFxaWIgTGVnYWxfMi40LjVfeDY0LXNldHVwLmV4ZQpMOGYrcE9QQjczUG9nRmxERUF4M2tvZHdHaGZtR1ZtVi92RnQ5NUJIQk4wMXN6UWNJQUVyNjdkcXBiZFBzeTIwdFB6Qy83YTRrT3lHVHZZM21kUFhDZz09Cg==",
+      "url": "https://github.com/MohamedFadl2344/Raqib/releases/download/v2.4.5/Raqib.Legal_2.4.5_x64-setup.exe"
     }
   }
 }
