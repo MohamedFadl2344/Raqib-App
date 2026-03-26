@@ -1,11 +1,11 @@
 {
-  "version": "2.2.0",
+  "version": "2.3.0",
   "notes": "تحديث أمني شامل: حماية البيانات ونظام تراخيص احترافي.",
   "pub_date": "2026-03-26T00:00:00Z",
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTYWcwdDgvd3kxRmlOOUpPMmd4aWJCZDFaa2V0ZC93WmhWZmlpRTViOVY2MFg1MnlmR1MxK0ZqTXBtekh3ZlF2NSs1UjRmL0RNTVI1eEkrTGYya2pYcERXbGNiWS9JeWdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NDQ3ODYwCWZpbGU6cmFxaWIuZXhlCmMyeGNVVXgray9xaGROZXcvamhKZ2dzbDk5VVc1WkxsSWVTM1FRQ3FvS0FXTW81NHUrQ3hmZ0JFWmliWXMybGpIWmwrOGp2YnZyZGM0LzE2VjNBREF3PT0K",
-      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.2.0/Raqib.Legal_2.2.0_x64-setup.exe"
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.3.0/Raqib.Legal_2.3.0_x64-setup.exe"
     }
   }
 }
