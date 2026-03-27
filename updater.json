@@ -5,15 +5,15 @@
   "platforms": {
     "windows-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFR6RFkrV3huRlVxUlh6RlZuNkp4QXZQcHRsUTJCbnlLdFVQTmZmVXFYeWw0VVM0NE9RUzJiYXArWjNIRTV3YVptd2kzL2QvVGNoeFhnOXllR3dWY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTc2ODI5CWZpbGU6UmFxaWIgTGVnYWxfMi40LjZfeDY0X2VuLVVTLm1zaQpqREhtTTVHa29MaXFoS29CeDlyUTJYTldVZEdyVW0zNmY1c0QrMSt1RU5ha0k0VTg4RGM5SzF3WUFxYXBSd1dIWDFWMzdjMTR3TWZoYmVscDNTU1BCZz09Cg==",
-      "url": "https://github.com/MohamedFadl2344/Raqib/releases/download/v2.4.6/Raqib.Legal_2.4.6_x64_en-US.msi"
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.6/Raqib.Legal_2.4.6_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFR6RFkrV3huRlVxUlh6RlZuNkp4QXZQcHRsUTJCbnlLdFVQTmZmVXFYeWw0VVM0NE9RUzJiYXArWjNIRTV3YVptd2kzL2QvVGNoeFhnOXllR3dWY1FnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTc2ODI5CWZpbGU6UmFxaWIgTGVnYWxfMi40LjZfeDY0X2VuLVVTLm1zaQpqREhtTTVHa29MaXFoS29CeDlyUTJYTldVZEdyVW0zNmY1c0QrMSt1RU5ha0k0VTg4RGM5SzF3WUFxYXBSd1dIWDFWMzdjMTR3TWZoYmVscDNTU1BCZz09Cg==",
-      "url": "https://github.com/MohamedFadl2344/Raqib/releases/download/v2.4.6/Raqib.Legal_2.4.6_x64_en-US.msi"
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.6/Raqib.Legal_2.4.6_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFhZMzk2RWJ6SDRzUkVPT2FrWHFhbittcEUzaE9kY200TDZIOGlsdnVKQzh0ZGh1cXp5YnZ0UFVQSTkxcngrL24vOUFvSGJzY2J1Tnh5dTZJMXB1OVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NTc2ODI5CWZpbGU6UmFxaWIgTGVnYWxfMi40LjZfeDY0LXNldHVwLmV4ZQpMYW1xZnhCaUlmcHBPRURBWHdkRENFN0VNN0Q2WFF6QU9OQVhvSU05azI2TDgyWGRNUDYwa1lVWkR2N1ZITHdIYVlVYWlpZjdYZndaOVFLT0xpa3REUT09Cg==",
-      "url": "https://github.com/MohamedFadl2344/Raqib/releases/download/v2.4.6/Raqib.Legal_2.4.6_x64-setup.exe"
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.6/Raqib.Legal_2.4.6_x64-setup.exe"
     }
   }
 }
