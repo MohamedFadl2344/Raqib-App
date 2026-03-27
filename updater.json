@@ -1,19 +1,19 @@
 {
-  "version": "2.4.8",
+  "version": "2.4.9",
   "notes": "",
-  "pub_date": "2026-03-27T16:16:39.723Z",
+  "pub_date": "2026-03-27T17:24:58.122Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFZsOGRWOFBQTnA2UnBlWEU3VjY0T3FoTzNGQSt1KzFWcUllSk5xYWplb3VpdkdtM2xYMUZxa3loelAvTkhVQkdNaU5WZnJiNmFnQWhLRVE3L2k2a2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjI4MTk0CWZpbGU6UmFxaWIgTGVnYWxfMi40LjhfeDY0X2VuLVVTLm1zaQpwWmRZOHBkdmMrb0NFMWpoUjBoajBOSzBvMHE0VGFNNC9QQ0NJcDY2NCsxSGtiQWJtMGVud2JRVWNncy81eG1RZ0VBb1VaNlJURG0ra0NNQTVkbk9BQT09Cg==",
-      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.8/Raqib.Legal_2.4.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUGE0QzczaXZOUkJyaEZPTC9qbXhuZVVWcTcrU212UVNYR1laZmthalpjdlRTeE1ZYzZXaVZrUHZselVoYzFpZGl1dFUxSjR4d2VwWkxhVzVPVWRjS0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjMyMjkzCWZpbGU6UmFxaWIgTGVnYWxfMi40LjlfeDY0X2VuLVVTLm1zaQorUmY4eUJJVDZIWDNHcGt5VktmTkU3ZEt6K2NMYnc2M1VETStMYmMyN25iQTNFbS9tVVVUQ1RSTmJMN3A4S2V1UWlITVF3b1Zldll5QjAwL3F5c01EUT09Cg==",
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.9/Raqib.Legal_2.4.9_x64_en-US.msi"
     },
     "windows-x86_64-msi": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFZsOGRWOFBQTnA2UnBlWEU3VjY0T3FoTzNGQSt1KzFWcUllSk5xYWplb3VpdkdtM2xYMUZxa3loelAvTkhVQkdNaU5WZnJiNmFnQWhLRVE3L2k2a2dNPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjI4MTk0CWZpbGU6UmFxaWIgTGVnYWxfMi40LjhfeDY0X2VuLVVTLm1zaQpwWmRZOHBkdmMrb0NFMWpoUjBoajBOSzBvMHE0VGFNNC9QQ0NJcDY2NCsxSGtiQWJtMGVud2JRVWNncy81eG1RZ0VBb1VaNlJURG0ra0NNQTVkbk9BQT09Cg==",
-      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.8/Raqib.Legal_2.4.8_x64_en-US.msi"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUGE0QzczaXZOUkJyaEZPTC9qbXhuZVVWcTcrU212UVNYR1laZmthalpjdlRTeE1ZYzZXaVZrUHZselVoYzFpZGl1dFUxSjR4d2VwWkxhVzVPVWRjS0FVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjMyMjkzCWZpbGU6UmFxaWIgTGVnYWxfMi40LjlfeDY0X2VuLVVTLm1zaQorUmY4eUJJVDZIWDNHcGt5VktmTkU3ZEt6K2NMYnc2M1VETStMYmMyN25iQTNFbS9tVVVUQ1RSTmJMN3A4S2V1UWlITVF3b1Zldll5QjAwL3F5c01EUT09Cg==",
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.9/Raqib.Legal_2.4.9_x64_en-US.msi"
     },
     "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUGFBWEpCY0FJVm50aEl3Q1BNNy8xZzZPd2U4c210amliMUxzZXE4dWgzejJ3Y0RoeE9iSzZWS01VWmVvVHBRNTYvRmhsSnU4UkZmcS82bGRML2htcVFVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjI4MTk0CWZpbGU6UmFxaWIgTGVnYWxfMi40LjhfeDY0LXNldHVwLmV4ZQpQUGJZZ3lHNTFDcXd2RnMvNXIwc3V4Q0JzcTlaS3MrSk96WkU3OC95QWkrZTNORkVlc0dhOVRpTjVKa0dNREF4NGI2dFFLUEx3ckNabUZkY0lwK2dCUT09Cg==",
-      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.8/Raqib.Legal_2.4.8_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUUUFqcUNnZkNnUFc3VXY1KzlSbEZBOVVQUHc1aUE5cUlIeFNpQWJEQ0ZIMmNLcThBMU5kenRZRjB1a1NDSC8yK2FPVDlNRXlSWXptQWV1MGJ0OVI4TzRLV0duUVh0bEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzc0NjMyMjkzCWZpbGU6UmFxaWIgTGVnYWxfMi40LjlfeDY0LXNldHVwLmV4ZQp4NVNieGc3VzhqNVBncDc0Q1hiUlBxRitXOWgydndpQTllMFBMeWhSNzBOQVFRaExNQXZaZWV1elZtck5qeEtxK2FBekRka1k5WTFQWFBMbzhkUnFCUT09Cg==",
+      "url": "https://github.com/MohamedFadl2344/Raqib-App/releases/download/v2.4.9/Raqib.Legal_2.4.9_x64-setup.exe"
     }
   }
 }
